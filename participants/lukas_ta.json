@@ -1,0 +1,16 @@
+{
+	"name": "Lukas Taegert-Atkinson",
+	"company": "TNG Technology Consulting",
+	"when": {
+		"friday": true,
+		"saturday": false
+	},
+	"iCanTakeNotesDuringSessions": false,
+	"tags": ["Rollup", "Vite"],
+	"vegan": false,
+	"vegetarian": false,
+	"whatIsMyConnectionToJavascript": "I properly learned on the job starting 2015. 2017, I accidentally became maintainer of RollupJS. And this is still the case.",
+	"whatCanIContribute": "Some session about Vite and/or Rollup (plugins?), tbd",
+	"twitter": "lukastaegert",
+	"mastodon": "https://m.webtoo.ls/@lukastaegert"
+}
